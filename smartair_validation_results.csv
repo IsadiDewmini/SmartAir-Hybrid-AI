@@ -1,0 +1,13 @@
+Image,Actual,Predicted,Error
+video1_frame_00002.jpg,13,10,3
+video1_frame_00007.jpg,13,9,4
+video1_frame_00008.jpg,13,8,5
+video1_frame_00009.jpg,13,7,6
+video2_frame_00005.jpg,10,8,2
+video2_frame_00006.jpg,10,9,1
+video2_frame_00008.jpg,9,7,2
+video4_frame_00006.jpg,8,7,1
+video5_frame_00003.jpg,7,5,2
+video5_frame_00006.jpg,6,5,1
+video6_frame_00000.jpg,0,0,0
+video6_frame_00006.jpg,7,4,3
